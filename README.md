@@ -102,6 +102,10 @@ max_node_length=12               ; 节点名称最大长度
   <img src="https://github.com/user-attachments/assets/8c978518-fe45-4c89-92bc-6b92e2c960a9" alt="Clash配置示例" style="max-width: 100%; height: auto;" />
 </p>
 
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/8bc88714-576c-44ff-9a33-3e6a2471030c" alt="效果展示" style="max-width: 100%; height: auto;" />
+</p>
+
 ---
 
 ## 🔧 从源码构建
