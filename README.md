@@ -98,6 +98,10 @@ max_node_length=12               ; 节点名称最大长度
 > secret: "your-secret-key"
 > ```
 
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/8c978518-fe45-4c89-92bc-6b92e2c960a9" alt="Clash配置示例" style="max-width: 100%; height: auto;" />
+</p>
+
 ---
 
 ## 🔧 从源码构建
