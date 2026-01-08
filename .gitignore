@@ -1,0 +1,36 @@
+# Build artifacts
+x64/
+Debug/
+Release/
+*.obj
+*.pch
+*.pdb
+*.idb
+*.ilk
+*.exp
+*.lib
+*.exe
+*.tlog
+*.res
+*.iobj
+*.ipdb
+*.recipe
+
+# Visual Studio files
+.vs/
+*.user
+*.aps
+*.sdf
+*.suo
+ipch/
+
+# Log files
+*.log
+
+# Backup files
+*.bak
+*.orig
+
+# OS generated files
+Thumbs.db
+.DS_Store
